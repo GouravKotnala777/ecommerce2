@@ -1,0 +1,83 @@
+[
+    {
+        "_id" : "656c12ecadcc1b7bff41p000",
+        "product_type" : "electronic",
+        "name" : "product1",
+        "price" : 100,
+        "ratings" : 1,
+        "stock" : 10,
+        "numOfReviews" : 1,
+        "createdBy" : {
+                "user" : "6558bcdf2a6702ced74fbb7d"
+        },
+        "createdAt" : "1701581382870",
+        "reviews" : [
+                {
+                        "user" : "656c12ecadcc1b7bff41u000",
+                        "rating" : 1,
+                        "comment" : "i am naruto",
+                        "_id" : "656ef4ca90316af588a9901f"
+                }
+        ]
+    },
+    {
+        "_id" : "656c12ecadcc1b7bff41p001",
+        "product_type" : "body wear",
+        "name" : "product2",
+        "price" : 200,
+        "ratings" : 3,
+        "stock" : 10,
+        "numOfReviews" : 2,
+        "createdBy" : {
+                "user" : "6558bcdf2a6702ced74fbb7d"
+        },
+        "createdAt" : "1701581382870",
+        "reviews" : [
+                {
+                        "user" : "656c12ecadcc1b7bff41u000",
+                        "rating" : 1,
+                        "comment" : "i am naruto",
+                        "_id" : "656ef4ca90316af588a9901f"
+                },
+                {
+                        "user" : "656c12ecadcc1b7bff41u001",
+                        "rating" : 2,
+                        "comment" : "i am sasuke",
+                        "_id" : "656ef4ca90316af588a9901f"
+                }
+        ]
+    },
+    {
+        "_id" : "656c12ecadcc1b7bff41p002",
+        "product_type" : "foot wear",
+        "name" : "product3",
+        "price" : 300,
+        "ratings" : 6,
+        "stock" : 10,
+        "numOfReviews" : 2,
+        "createdBy" : {
+                "user" : "6558bcdf2a6702ced74fbb7d"
+        },
+        "createdAt" : "1701581382870",
+        "reviews" : [
+                {
+                        "user" : "656c12ecadcc1b7bff41u000",
+                        "rating" : 1,
+                        "comment" : "i am naruto",
+                        "_id" : "656ef4ca90316af588a9901f"
+                },
+                {
+                        "user" : "656c12ecadcc1b7bff41u001",
+                        "rating" : 2,
+                        "comment" : "i am sasuke",
+                        "_id" : "656ef4ca90316af588a9901f"
+                },
+                {
+                        "user" : "656c12ecadcc1b7bff41u002",
+                        "rating" : 3,
+                        "comment" : "i am kakashi",
+                        "_id" : "656ef4ca90316af588a9901f"
+                }
+        ]
+    }
+]

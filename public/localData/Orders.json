@@ -1,0 +1,17 @@
+{
+    "_id" : "656184a7a60c485dc5ab8182",
+    "orderItems" : [
+            {
+                    "product" : "65571c9a407a84e75f2937bb",
+                    "quantity" : 1,
+                    "image" : "No Image",
+                    "_id" : "656184a7a60c485dc5ab8183"
+            }
+    ],
+    "user" : "655b330fb092c03b815ae271",
+    "paymentInfo" : {
+            "transaction_id" : "Payment Transaction ID",
+            "status" : "Pending"
+    },
+    "__v" : 2
+}
